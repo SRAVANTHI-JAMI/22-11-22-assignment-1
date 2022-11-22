@@ -1,0 +1,31 @@
+# program for students data
+sno=int(input('enter sno:'))
+sname=input('enter sname:')
+sgroup=input('enter sgroup:')
+sgender=input('enter sgender:')
+sphno=int(input('enter sphno:'))
+saddress=input('enter saddress:')
+smarks =int(input('enter smarks'))
+print('sno',sno)
+print('sname',sname)
+print('sgroup',sgroup)
+print('sgender',sgender)
+print('sphno',sphno)
+print('saddress',saddress)
+print('smarks',smarks)
+output:
+enter sno:45
+enter sname:devi
+enter sgroup:ds
+enter sgender:female
+enter sphno:3565677876
+enter saddress:vizag
+enter smarks999
+sno 45
+sname devi
+sgroup ds
+sgender female
+sphno 3565677876
+saddress vizag
+smarks 999
+> 
