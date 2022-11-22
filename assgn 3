@@ -1,0 +1,12 @@
+p=int(input('enter p:'))
+s=int(input('enter s:'))
+p=p+s
+s=p-s
+p=p-s
+print('p value',p)
+print('s value',s)
+output:
+enter p:5
+enter s:4
+p value 4
+s value 5
