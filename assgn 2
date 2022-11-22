@@ -1,0 +1,19 @@
+#program for calculating EMI
+p=int(input('enter principal'))
+si=int(input('enter simple interrset'))
+t=int(input('enter total no of months'))
+emi=(p+si)/t
+print('principal',p)
+print('simple interest',si)
+print('total no of months',t)
+print('emi',emi)
+output:
+enter principal 5000
+5000
+enter simple interrset450
+enter total no of months24
+principal 5000
+simple interest 450
+total no of months 24
+emi 227.08333333333334
+> 
